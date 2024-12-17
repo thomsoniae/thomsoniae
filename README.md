@@ -2,18 +2,13 @@
 - 👀 I’m interested in ...
   + programming
   + reading
-  + table tennis
-  + singing
-  + radio drama
-  + making friends with nice people 😜
-  + non-academic writing
 - 🌱 I’m currently learning ...
   + Spring Boot
   + Vue3
-- 💞️ I’m looking to collaborate on ...
-  + no idea, maybe a partner for mutual progress?
+- 💞️ I’m looking for ...
+  + a software engineer role
 - 📫 How to reach me ...
-  + email me: sophora.hua@gmail.com
+  + I know you don't care ;)
 
 <!---
 thomsoniae/thomsoniae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
